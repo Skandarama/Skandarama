@@ -1,6 +1,6 @@
 ## Hi there 👋 itz me skanda
 # 💫 About Me:
-🔭 I’m currently studying in R V INSTItuTE OF TECHNOLOGY AND MANAGEMENT<br>👯 I’m a youtuber<br>🌱 I’m currently learning B E COMPUTER SCIENCE AND ENGINEERING<br>💬 #RVITM<br>⚡ Fun fact
+🔭 I’m currently studying in R V INSTITUTE OF TECHNOLOGY AND MANAGEMENT<br>👯 I’m a youtuber<br>🌱 I’m currently learning B E COMPUTER SCIENCE AND ENGINEERING<br>💬 #RVITM<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
